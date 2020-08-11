@@ -1,12 +1,12 @@
 {
-    "name": "uvdesk/core-framework",
+    "name": "gd/core-framework",
     "description": "UVDesk Community Helpdesk Core Framework Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Akshay Kumar",
-            "email": "akshay.kumar758@webkul.com"
+            "name": "Armaedagon",
+            "email": "armaedagon@gmail.com"
         }
     ],
     "require": {
