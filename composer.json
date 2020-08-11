@@ -1,5 +1,5 @@
 {
-    "name": "gd/core-framework",
+    "name": "greatdevs/core-framework",
     "description": "UVDesk Community Helpdesk Core Framework Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
